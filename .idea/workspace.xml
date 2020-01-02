@@ -27,28 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.InputFunctions">
-    <configuration name="BasicDataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicDataTypes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ZFileForCodeIndependentExecution">
     <configuration name="EscapeSequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,6 +70,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="FlowControl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlowControl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="InputFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TypeAndStringFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ZFileForCodeIndependentExecution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypeAndStringFunctions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZFileForCodeIndependentExecution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ZFileForCodeIndependentExecution" />
+        <item itemvalue="Python.Loops" />
+        <item itemvalue="Python.FlowControl" />
         <item itemvalue="Python.InputFunctions" />
         <item itemvalue="Python.EscapeSequence" />
-        <item itemvalue="Python.TypeAndStringFunctions" />
-        <item itemvalue="Python.Strings" />
-        <item itemvalue="Python.BasicDataTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -202,22 +202,22 @@
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
     <state x="4901" y="457" key="FileChooserDialogImpl/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1577966227874" />
-    <state width="2539" height="492" key="GridCell.Tab.0.bottom" timestamp="1577726445878">
+    <state width="2539" height="309" key="GridCell.Tab.0.bottom" timestamp="1577978895633">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.bottom/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577726445878" />
-    <state width="2539" height="492" key="GridCell.Tab.0.center" timestamp="1577726445878">
+    <state width="2539" height="309" key="GridCell.Tab.0.bottom/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577978895633" />
+    <state width="2539" height="309" key="GridCell.Tab.0.center" timestamp="1577978895633">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.center/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577726445878" />
-    <state width="2539" height="492" key="GridCell.Tab.0.left" timestamp="1577726445878">
+    <state width="2539" height="309" key="GridCell.Tab.0.center/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577978895633" />
+    <state width="2539" height="309" key="GridCell.Tab.0.left" timestamp="1577978895633">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.left/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577726445878" />
-    <state width="2539" height="492" key="GridCell.Tab.0.right" timestamp="1577726445878">
+    <state width="2539" height="309" key="GridCell.Tab.0.left/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577978895633" />
+    <state width="2539" height="309" key="GridCell.Tab.0.right" timestamp="1577978895633">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.right/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577726445878" />
+    <state width="2539" height="309" key="GridCell.Tab.0.right/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577978895633" />
     <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1577726445878">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -238,10 +238,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="782" y="344" key="SettingsEditor/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577711431862" />
-    <state x="976" y="526" key="com.intellij.ide.util.TipDialog" timestamp="1577966042922">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1577967824793">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="976" y="526" key="com.intellij.ide.util.TipDialog/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577966042922" />
+    <state width="498" height="446" key="SwitcherDM/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577967824793" />
+    <state x="976" y="526" key="com.intellij.ide.util.TipDialog" timestamp="1577970374832">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="526" key="com.intellij.ide.util.TipDialog/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577970374832" />
     <state x="911" y="246" width="739" height="909" key="find.popup" timestamp="1577714095060">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
