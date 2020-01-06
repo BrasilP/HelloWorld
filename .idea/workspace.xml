@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3823a0d3-d246-4561-8d68-932ec7024abf" name="Default Changelist" comment="" />
+    <list default="true" id="3823a0d3-d246-4561-8d68-932ec7024abf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Lists.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -247,13 +251,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="498" height="446" key="SwitcherDM/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577967824793" />
-    <state x="976" y="526" key="com.intellij.ide.util.TipDialog" timestamp="1578044742282">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="710" y="465" key="com.intellij.ide.util.TipDialog" timestamp="1578180724565">
+      <screen x="0" y="23" width="1862" height="1177" />
     </state>
+    <state x="710" y="465" key="com.intellij.ide.util.TipDialog/0.23.1862.1177@0.23.1862.1177" timestamp="1578180724565" />
     <state x="976" y="526" key="com.intellij.ide.util.TipDialog/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1578044742282" />
     <state x="911" y="246" width="739" height="909" key="find.popup" timestamp="1577714095060">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="911" y="246" width="739" height="909" key="find.popup/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1577714095060" />
+    <state x="340" y="184" width="700" height="530" key="recent.locations.popup" timestamp="1578183188272">
+      <screen x="0" y="23" width="1862" height="1177" />
+    </state>
+    <state x="340" y="184" width="700" height="530" key="recent.locations.popup/0.23.1862.1177@0.23.1862.1177" timestamp="1578183188272" />
+    <state x="356" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1578187384485">
+      <screen x="0" y="23" width="1862" height="1177" />
+    </state>
+    <state x="356" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1862.1177@0.23.1862.1177" timestamp="1578187384485" />
   </component>
 </project>
